@@ -1,5 +1,5 @@
 # Exp-9-Record-IMPLEMENTATION-OF-EROSION-AND-DILATION
-## Aim
+## Aim 
 ```
 To write a Python program using OpenCV to perform morphological operations such as Erosion and Dilation on an image.
 
